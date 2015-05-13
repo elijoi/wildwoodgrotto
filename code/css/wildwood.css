@@ -1,0 +1,8 @@
+.container {
+     padding-right: 0; /*15px in bootstrap.css*/
+     padding-left: 0;  /*idem*/
+}
+
+#header {
+	background-image: url(../../img/bg.jpg);	
+}
